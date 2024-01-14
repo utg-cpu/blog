@@ -28,7 +28,7 @@ Replace __'package_name'__ with the actual name of the package you wish to insta
 ### Example
 If you want to install the text editor __'nano'__, you would use:
 ```bash
-sudo pacman -S nano-
+sudo pacman -S nano
 ```
 ## Searching for Packages
 If you're unsure of the exact package name, you can search the Arch repository using:

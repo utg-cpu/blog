@@ -1,7 +1,7 @@
 ---
 author: nam truong
 pubDatetime: 2022-09-23T15:22:00+11:00
-modDatetime: 2024-12-21T21:21:15.400+11:00
+modDatetime: 2024-12-21T21:21:15+11:00
 title: arch linux update guide
 slug: arch linux update guide
 featured: true

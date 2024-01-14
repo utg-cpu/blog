@@ -1,7 +1,7 @@
 ---
 author: nam truong
-pubDatetime: 2022-09-23T15:22:00Z
-modDatetime: 2024-01-14T09:21:05.400Z
+pubDatetime: 2022-09-23T15:22:00+11:00
+modDatetime: 2024-01-14T21:00:00+11:00
 title: how to install wine
 slug: how to install wine
 featured: true

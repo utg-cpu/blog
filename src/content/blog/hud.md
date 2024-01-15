@@ -64,3 +64,4 @@ wine /path/to/setup.exe
 * Replace /path/to/setup.exe with the path to your executable
 ## Troubleshooting
 If you encounter issues, check the [WineHQ FAQ](https://wiki.winehq.org/FAQ) and the [Arch Wiki](https://wiki.archlinux.org) for solutions.
+      

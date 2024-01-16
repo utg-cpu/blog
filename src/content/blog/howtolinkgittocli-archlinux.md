@@ -1,7 +1,7 @@
 ---
 title: how to link git to cli archlinux
 author: nam truong
-pubDatetime: 2024-01-16T10:34:00.569+11:00
+pubDatetime: 2024-01-16T10:34:00.569Z
 featured: true
 draft: false
 tags:

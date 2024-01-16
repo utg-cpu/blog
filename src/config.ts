@@ -69,7 +69,7 @@ export const SOCIALS: SocialObjects = [
     name: "YouTube",
     href: "https://www.youtube.com/channel/UCQ2z6beCAtjBdGNEGevpI5w",
     linkTitle: `${SITE.title} on YouTube`,
-    active: true,
+    active: false,
   },
   {
     name: "WhatsApp",
@@ -142,5 +142,11 @@ export const SOCIALS: SocialObjects = [
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Mastodon`,
     active: false,
+  },
+  {
+    name: "patreon",
+    href: "https://www.patreon.com/linuxguide",
+    linkTitle: `${SITE.title} on patreon`,
+    active: true,
   },
 ];

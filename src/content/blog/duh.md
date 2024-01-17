@@ -11,6 +11,11 @@ description:
 tags:
   - arch linux
 ---
+
+## Table of contents
+
+# how to update arch linux
+
 Updating Arch Linux is a straightforward process, usually done through the terminal. Regular updates are essential for security patches, new features, and system stability.
 * ### open the terminal
   start by opening your terminal. You can do this by searching for it in your applications menu or by using a keyboard shortcut, often Ctrl + Alt + T.

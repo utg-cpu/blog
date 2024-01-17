@@ -12,6 +12,9 @@ tags:
   - arch linux
   - wine
 ---
+
+## Table of contents
+
 # Installing Wine on Arch Linux
 
 Wine is a compatibility layer that allows you to run Windows applications on several POSIX-compliant operating systems, including Linux. Here's how you can install Wine on Arch Linux.

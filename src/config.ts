@@ -54,10 +54,10 @@ export const SOCIALS: SocialObjects = [
     active: true,
   },
   {
-    name: "Twitter",
-    href: "https://github.com/satnaing/astro-paper",
+    name: "X",
+    href: "https://twitter.com/nam336323925760",
     linkTitle: `${SITE.title} on Twitter`,
-    active: false,
+    active: true,
   },
   {
     name: "Twitch",

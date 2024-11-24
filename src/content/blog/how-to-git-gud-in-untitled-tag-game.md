@@ -22,7 +22,7 @@ untitled tag game is a game where you tag others with unique tactics and this is
 ## movement systems
 
 1. ### High Vault/Vault
-soo, vaulting is when you just hit the edge you hit jump to vault and to high vault you hit jump when your head id under the edge.
+soo, vaulting is when you just hit the edge you hit jump to vault and to high vault you hit jump when your head is under the edge.
 
 2. ### Roll
 so you roll by pressing slide just before you hit the ground and you get faster or slower, based on your timing.
